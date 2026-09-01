@@ -10,7 +10,6 @@ models/*.pt
 models/*.pth
 models/*.onnx
 models/*.h5
-
 outputs/
 
 dataset/
